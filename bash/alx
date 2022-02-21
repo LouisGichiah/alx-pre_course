@@ -1,1 +1,2 @@
-#!/bin/bash <br/>  echo "alx" 
+#!/bin/bash
+echo"ALX" 
